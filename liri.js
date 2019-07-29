@@ -14,26 +14,24 @@ var axios = require("axios");
 var artist = process.argv.slice(2).join('');
 
 axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
-.then(function(response)    {
-    for (var i = 0; i < response.data.length; i++) {
-        var data = response.data[i];
-        var venue = data.venue;
-   
-    // console.log(venue.name.split(", ")); // name of venue
-    // console.log(venue.city); //venue location
-    // console.log(moment(data.datetime).format("MM/DD/YY")); //event date formatted as MM/DD/YYYY
-    
-    var concertArray = [
-        venue.name,
-        venue.city,
-        moment(data.datetime).format("MM/DD/YY")
-    ]
-    console.log(concertArray);
-    // console.log(artist); //logging to check name of artist that is being searched for
-    }
-});
+    .then(function (response) {
+        for (var i = 0; i < response.data.length; i++) {
+            var data = response.data[i];
+            var venue = data.venue;
 
+            // console.log(venue.name.split(", ")); // name of venue
+            // console.log(venue.city); //venue location
+            // console.log(moment(data.datetime).format("MM/DD/YY")); //event date formatted as MM/DD/YYYY
 
+            var concertArray = [
+                venue.name,
+                venue.city,
+                moment(data.datetime).format("MM/DD/YY")
+            ]
+            console.log(concertArray);
+            // console.log(artist); //logging to check name of artist that is being searched for
+        }
+    });
 
 
 
@@ -44,7 +42,7 @@ axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=cod
 //     if (err) {
 //       return console.log('Error occurred: ' + err);
 //     }
-   
+
 //   console.log(data); 
 //   });
 
@@ -57,19 +55,30 @@ axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=cod
 //3. node liri.js movie-this '<movie name here>'
 // movie-this
 
+var movieName = process.argv.slice(2).join('+');
 
-// need to create variable for movieName?
-// axios.get("http://omdbapi.com/?t=" + movieName + "&plot=short&apikey=trilogy")
-// .then(function(response) {
-//     console.log(response.data.Title);
-//     console.log(response.data.Year);
-//     console.log(response.data.imdbRating);
-//     console.log(response.data.Ratings[1]); // rotten tomatoes rationg
-//     console.log(response.data.Country);
-//     console.log(response.data.Language);
-//     console.log(response.data.Plot);
-//     console.log(response.data.Actors);
-// });
+axios.get("https://omdbapi.com/?t=" + movieName + "&apikey=trilogy")
+    .then(function (response) {
+            var data = response.data;
+            var title = data.Title;
+            var year = data.Year;
+            var imdbRating = data.imdbRating;
+            var rotten = data.Ratings;
+            var country = data.Country;
+            var language = data.Language;
+            var plot = data.Plot;
+            var actors = data.Actors;
+
+        console.log("Title: " + title);
+        console.log("Year: " + year);
+        console.log("imdb Rating: " + imdbRating);
+        console.log("Rotten Tomatoes Rating: " + rotten);
+        console.log("Country: " + country);
+        console.log("Language: " + language);
+        console.log("Plot: " + plot);
+        console.log("Actors: " + actors);  
+        
+    });
 
 
 
