@@ -19,10 +19,17 @@ axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=cod
         var data = response.data[i];
         var venue = data.venue;
    
-    console.log(venue.name); // name of venue
-    console.log(venue.city); //venue location
-    console.log(moment(data.datetime).format("MM/DD/YY")); //event date formatted as MM/DD/YYYY
-    console.log(artist); //logging to check name of artist that is being searched for
+    // console.log(venue.name.split(", ")); // name of venue
+    // console.log(venue.city); //venue location
+    // console.log(moment(data.datetime).format("MM/DD/YY")); //event date formatted as MM/DD/YYYY
+    
+    var concertArray = [
+        venue.name,
+        venue.city,
+        moment(data.datetime).format("MM/DD/YY")
+    ]
+    console.log(concertArray);
+    // console.log(artist); //logging to check name of artist that is being searched for
     }
 });
 
