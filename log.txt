@@ -1,0 +1,158 @@
+---------- SONG ----------
+Artist(s): Wham!
+Song Name: Wake Me up Before You Go-Go
+Album: Make It Big
+Preview: https://p.scdn.co/mp3-preview/d1c143357d86d1736806ed7404b71a44feb8451d?cid=fd679cc8f3ed4dbf8dc3ca7bee644661
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: San Diego
+State: CA
+Date of the show: 08/07/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Phoenix
+State: AZ
+Date of the show: 08/05/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: El Paso
+State: TX
+Date of the show: 08/04/19
+
+---------- CONCERT ----------
+Concert: Outside Lands 2019
+City: San Francisco
+State: CA
+Date of the show: 08/09/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Irvine
+State: CA
+Date of the show: 08/27/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Ridgefield
+State: WA
+Date of the show: 08/30/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Los Angeles
+State: CA
+Date of the show: 08/08/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Seattle
+State: WA
+Date of the show: 08/31/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Salt Lake City
+State: UT
+Date of the show: 09/02/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Denver
+State: CO
+Date of the show: 09/04/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Wichita
+State: KS
+Date of the show: 09/06/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Council Bluffs
+State: IA
+Date of the show: 09/07/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Bonner Springs
+State: KS
+Date of the show: 09/08/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Detroit
+State: MI
+Date of the show: 09/10/19
+
+---------- CONCERT ----------
+Concert: Xcel Energy Center
+City: St Paul
+State: MN
+Date of the show: 09/12/19
+
+---------- CONCERT ----------
+Concert: Riot Fest
+City: Chicago
+State: IL
+Date of the show: 09/13/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Saint Francisville
+State: MO
+Date of the show: 09/14/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Cincinnati
+State: OH
+Date of the show: 09/16/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Camden
+State: NJ
+Date of the show: 09/18/19
+
+---------- CONCERT ----------
+Concert: Barclays Center
+City: Brooklyn
+State: NY
+Date of the show: 09/20/19
+
+---------- CONCERT ----------
+Concert: blink-182 & Lil Wayne Tour 2019
+City: Columbus
+State: OH
+Date of the show: 09/22/19
+
+---------- CONCERT ----------
+Concert: Aftershock 2019
+City: Sacramento
+State: CA
+Date of the show: 10/12/19
+
+---------- MOVIE ----------
+Title: Fast Five
+Year: 2011
+IMDB Rating: 7.3
+Rotten Tomatoes Rating: 77%
+Country: USA, Brazil, Japan
+Language: English, Portuguese, Spanish, Italian, French
+Plot: Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.
+Actors: Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson
+
+---------- MOVIE ----------
+Title: Three Billboards Outside Ebbing, Missouri
+Year: 2017
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: 90%
+Country: UK, USA
+Language: English
+Plot: A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+Actors: Frances McDormand, Caleb Landry Jones, Kerry Condon, Sam Rockwell
+
