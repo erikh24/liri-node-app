@@ -46,11 +46,11 @@ Lastly there is the code that takes in the arguments from the user to make the a
 ****
 
 
-## Instructions:
+# Instructions:
 
  To run this app, you first need to open the terminal and navigate to the folder where the app is located. Once there, you can do any of the following.
 
-### - To seach for concerts, type:
+## To seach for concerts:
 node liri.js concert-this Weezer (or any band/artist that you want)
 
 ![image](/images/concert-this-weezer.png)
@@ -61,9 +61,7 @@ If you just type concert-this (and no artist/band), it will default to the resul
 ![image](/images/concert-this.png)
 
 
-
-
-### To search for a song, type:
+## To search for a song:
 node liri.js spotify-this-song Piano Man (or any song that you want, you will have to also add the artist after the song name in the event that there is more than one song with the same name)
 
 ![image](/images/spotify-this-song-piano-man.png)
@@ -73,7 +71,7 @@ If you just type spotify-this-song, it will return the results for the song The 
 ![image](/images/spotify-this-song.png)
 
 
-### - To search for a movie, type:
+## To search for a movie:
 node liri.js movie-this I tonya
 
 ![image](/images/movie-this-i-tonya.png)
@@ -83,7 +81,7 @@ If you just type movie-this, it will return the results for the movie Mr. Nobody
 ![image](/images/movie-this.png)
 
 
-### - To do a search for whatever is listed in the random.txt file, type:
+## To do a search for whatever is listed in the random.txt file:
 node liri.js do-what-it-says
 
 ![image](/images/do-what-it-says.png)
