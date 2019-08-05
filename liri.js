@@ -11,6 +11,7 @@ var axios = require("axios");
 // concert-this
 
 function concertThis(artist) {
+    if (!artist) artist = "Steve Aoki";
 
     axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp")
         .then(function (response) {
@@ -23,6 +24,7 @@ function concertThis(artist) {
                     "City: " + venue.city,
                     "State: " + data.venue.region,
                     "Date of the show: " + moment(data.datetime).format("MM/DD/YY"),
+                    "\n"
                 ].join("\n");
 
                 fs.appendFile("log.txt", "---------- CONCERT ----------" + "\n" + concertData + "\n\n", function (err) {

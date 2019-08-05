@@ -1,32 +1,75 @@
 # liri-node-app
 
-Create and use a standard GitHub repository. As this is a CLI App, it cannot be deployed to GitHub pages or Heroku. This time you'll need to include screenshots, a GIF, and/or a video showing us that you have the app working with no bugs. You can include these screenshots/GIFs or a link to a video in a README.md file.
 
-In order to meet the Employer Competitive standards and be ready to show your application to employers, the README.md file should meet the following criteria:
+## About This App:
+
+LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI is a command line node app that takes in parameters and gives you back data.
+
+****
+
+## Organization 
+This app is organized over multiple files. The API key and ID for Spotify is located in a separate .env file and exported to a js file (keys.js) that keeps the info private. Then that is exported to the main js file (liri.js).
+
+The main content of the app is located in the liri.js file. I have the required node packages referenced at the top of the page. Then I created 4 functions for what the app can do. In here is also the code to log what the user searched for in a separate text file named log.txt. In another text file (random.txt) is a single line entry which has the name of one of the functions followed by the item to search for. 
+
+Next, I used a Switch Statement to reference the functions created and named them 'concert-this', 'spotify-this-song', 'movie-this' and 'do-what-it-says'.
+
+Lastly there is the code that takes in the arguments from the user to make the app run (i.e. movie-this A Quiet Place). 
+
+****
+
+## Built with Visual Studio Code
+
+## Technologies used to create this app:
+- JavaScript
+- Node.js
+- Node.js packages: 
+    -Node-Spotify-API
+    -Axios
+    -Moment
+    -DotEnv
+- API's
+    -Bands in Town
+    -Spotify
+    -OMDB 
+
+****
+
+## This app can be found on my GitHub page
+- https://github.com/erikh24/liri-node-app.git
+- https://erikh24.github.io/liri-node-app/
+
+****
+
+ ## I was the sole creator of this project.
+ 
+****
 
 
-Clearly state the problem the app is trying to solve (i.e. what is it doing and why)
-- This app is taking in user input to display information on either movies, songs or concerts.
+## Instructions:
 
-Give a high-level overview  of how the app is organized
-- 
+ To run this app, you first need to open the terminal and navigate to the folder where the app is located. Once there, you can do any of the following.
 
-Give start-to-finish instructions on how to run the app
-- 
+### - To seach for concerts, type:
+    node liri.js concert-this 
+    
+    (followed by the name of the artist that you want to search for upcoming concerts). If you just type concert-this, it will return the results for upcoming concert dates for Steve Aoki.
 
-Include screenshots, gifs or videos of the app functioning
-- 
-
-Contain a link to a deployed version of the app
-- 
-
-Clearly list the technologies used in the app
-- 
-
-State your role in the app development
-- I was the sole creator of this project.
+    ![image](/pictures/concert-this-weezer.png)
 
 
-Because screenshots (and well-written READMEs) are extremely important in the context of GitHub, this will be part of the grading in this assignment.
+### - To search for a song, type:
+    node liri.js spotify-this-song 
+    
+    (followed by the name of the song that you want to search for). If you just type spotify-this-song, it will return the results for the song The Sign by Ace of Base.
 
-If you haven't written a markdown file yet, click here for a rundown, or just take a look at the raw file of these instructions.
+### - To search for a movie, type:
+    node liri.js movie-this 
+    
+    (followed by the name of the movie that you want search for). If you just type movie-this, it will return the results for the movie Mr. Nobody.
+
+### - To do a search for whatever is listed in the random.txt file, type:
+    node liri.js do-what-it-says
+
+
+
