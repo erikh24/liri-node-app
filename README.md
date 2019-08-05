@@ -53,12 +53,12 @@ Lastly there is the code that takes in the arguments from the user to make the a
 ### - To seach for concerts, type:
 node liri.js concert-this Weezer (or any band/artist that you want)
 
-![image](/pictures/concert-this-weezer.png)
+![image](./pictures/concert-this-weezer.png)
 
     
 If you just type concert-this (and no artist/band), it will default to the results for upcoming concert dates for Steve Aoki.
 
-![image](/pictures/concert-this.png)
+![image](./pictures/concert-this.png)
 
 
 
@@ -66,21 +66,21 @@ If you just type concert-this (and no artist/band), it will default to the resul
 ### To search for a song, type:
 node liri.js spotify-this-song Piano Man (or any song that you want, you will have to also add the artist after the song name in the event that there is more than one song with the same name)
 
-![image](/pictures/spotify-this-song-piano-man.png)
+![image](./pictures/spotify-this-song-piano-man.png)
 
 If you just type spotify-this-song, it will return the results for the song The Sign by Ace of Base.
 
-![image](/pictures/spotify-this-song.png)
+![image](./pictures/spotify-this-song.png)
 
 
 ### - To search for a movie, type:
 node liri.js movie-this I tonya
 
-![image](/pictures/movie-this-i-tonya.png)
+![image](./pictures/movie-this-i-tonya.png)
 
 If you just type movie-this, it will return the results for the movie Mr. Nobody.
 
-![image](/pictures/movie-this.png)
+![image](./pictures/movie-this.png)
 
 
 ### - To do a search for whatever is listed in the random.txt file, type:
