@@ -51,25 +51,43 @@ Lastly there is the code that takes in the arguments from the user to make the a
  To run this app, you first need to open the terminal and navigate to the folder where the app is located. Once there, you can do any of the following.
 
 ### - To seach for concerts, type:
-    node liri.js concert-this 
+node liri.js concert-this Weezer (or any band/artist that you want)
+
+![image](/pictures/concert-this-weezer.png)
+
     
-    (followed by the name of the artist that you want to search for upcoming concerts). If you just type concert-this, it will return the results for upcoming concert dates for Steve Aoki.
+If you just type concert-this (and no artist/band), it will default to the results for upcoming concert dates for Steve Aoki.
 
-    ![image](/pictures/concert-this-weezer.png)
+![image](/pictures/concert-this.png)
 
 
-### - To search for a song, type:
-    node liri.js spotify-this-song 
-    
-    (followed by the name of the song that you want to search for). If you just type spotify-this-song, it will return the results for the song The Sign by Ace of Base.
+
+
+### To search for a song, type:
+node liri.js spotify-this-song Piano Man (or any song that you want, you will have to also add the artist after the song name in the event that there is more than one song with the same name)
+
+![image](/pictures/spotify-this-song-piano-man.png)
+
+If you just type spotify-this-song, it will return the results for the song The Sign by Ace of Base.
+
+![image](/pictures/spotify-this-song.png)
+
 
 ### - To search for a movie, type:
-    node liri.js movie-this 
-    
-    (followed by the name of the movie that you want search for). If you just type movie-this, it will return the results for the movie Mr. Nobody.
+node liri.js movie-this I tonya
+
+![image](/pictures/movie-this-i-tonya.png)
+
+If you just type movie-this, it will return the results for the movie Mr. Nobody.
+
+![image](/pictures/movie-this.png)
+
 
 ### - To do a search for whatever is listed in the random.txt file, type:
-    node liri.js do-what-it-says
+node liri.js do-what-it-says
 
+![image](/pictures/do-what-it-says.png)
+
+****
 
 

@@ -20,16 +20,17 @@ function concertThis(artist) {
                 var venue = data.venue;
 
                 var concertData = [
+                    "Artist: " + artist,
                     "Concert: " + venue.name,
                     "City: " + venue.city,
                     "State: " + data.venue.region,
                     "Date of the show: " + moment(data.datetime).format("MM/DD/YY"),
                     "\n"
                 ].join("\n");
+                console.log(concertData);
 
-                fs.appendFile("log.txt", "---------- CONCERT ----------" + "\n" + concertData + "\n\n", function (err) {
+                fs.appendFile("log.txt", "---------- CONCERT ----------" + "\n" + concertData + "\n", function (err) {
                     if (err) throw err;
-                    console.log(concertData);
                 });
 
             }
@@ -44,7 +45,7 @@ function spotifyThisSong(songName) {
 
     spotify.search({ type: 'track', query: songName }, function (err, data) {
         if (err) {
-            return console.log('Error occurred: ' + err);
+            return console.log("Error occurred: " + err);
         } else {
 
             var tracks = data.tracks.items[0];
@@ -55,9 +56,9 @@ function spotifyThisSong(songName) {
             }
 
             var songData = [
-                'Artist(s): ' + artists.join(", "),
-                'Song Name: ' + tracks.name,
-                'Album: ' + tracks.album.name,
+                "Artist(s): " + artists.join(", "),
+                "Song Name: " + tracks.name,
+                "Album: " + tracks.album.name,
                 "Preview: " + tracks.preview_url
             ].join("\n");
 
@@ -74,8 +75,6 @@ function spotifyThisSong(songName) {
 
 function movieThis(movieName) {
     if (!movieName) movieName = "Mr. Nobody";
-
-    // var  = process.argv.slice(2).join('+');
 
     axios.get("https://omdbapi.com/?t=" + movieName + "&apikey=trilogy")
         .then(function (response) {
@@ -105,13 +104,12 @@ function movieThis(movieName) {
 function doWhatItSays() {
     fs.readFile("random.txt", "utf8", function (err, data) {
         if (err) {
-            return console.log("error");
+            return console.log("Error occurred: " + err);
         } else {
             var content = data.split(',');
             userCommand = content[0];
             input = content[1];
             pick(userCommand, input);
-
         }
     })
 };

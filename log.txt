@@ -1,170 +1,424 @@
----------- SONG ----------
-Artist(s): Wham!
-Song Name: Wake Me up Before You Go-Go
-Album: Make It Big
-Preview: https://p.scdn.co/mp3-preview/d1c143357d86d1736806ed7404b71a44feb8451d?cid=fd679cc8f3ed4dbf8dc3ca7bee644661
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Summer Sonic
+City: Chiba-shi
+State: Chiba-ken
+Date of the show: 08/16/19
+
 
 ---------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: San Diego
-State: CA
-Date of the show: 08/07/19
+Artist: Weezer
+Concert: Incheon Pentaport Rock Festival 
+City: Incheon
+State: 
+Date of the show: 08/11/19
+
 
 ---------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Phoenix
-State: AZ
+Artist: Weezer
+Concert: Musikfest
+City: Bethlehem
+State: PA
 Date of the show: 08/05/19
 
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: El Paso
-State: TX
-Date of the show: 08/04/19
 
 ---------- CONCERT ----------
-Concert: Outside Lands 2019
-City: San Francisco
-State: CA
-Date of the show: 08/09/19
+Artist: Weezer
+Concert: Summer Sonic
+City: Osaka-shi
+State: Ōsaka-fu
+Date of the show: 08/18/19
+
 
 ---------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Irvine
-State: CA
-Date of the show: 08/27/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Ridgefield
-State: WA
+Artist: Weezer
+Concert: Jazz Aspen Snowmass
+City: Snowmass
+State: CO
 Date of the show: 08/30/19
 
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Los Angeles
-State: CA
-Date of the show: 08/08/19
 
 ---------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Seattle
+Artist: Weezer
+Concert: Washington State Fair Events Center
+City: Puyallup
 State: WA
-Date of the show: 08/31/19
+Date of the show: 09/01/19
+
 
 ---------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Salt Lake City
-State: UT
-Date of the show: 09/02/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Denver
-State: CO
-Date of the show: 09/04/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Wichita
-State: KS
-Date of the show: 09/06/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Council Bluffs
-State: IA
-Date of the show: 09/07/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Bonner Springs
-State: KS
-Date of the show: 09/08/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Detroit
-State: MI
-Date of the show: 09/10/19
-
----------- CONCERT ----------
-Concert: Xcel Energy Center
-City: St Paul
-State: MN
-Date of the show: 09/12/19
-
----------- CONCERT ----------
-Concert: Riot Fest
-City: Chicago
-State: IL
-Date of the show: 09/13/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Saint Francisville
-State: MO
-Date of the show: 09/14/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Cincinnati
-State: OH
-Date of the show: 09/16/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Camden
-State: NJ
-Date of the show: 09/18/19
-
----------- CONCERT ----------
-Concert: Barclays Center
-City: Brooklyn
-State: NY
-Date of the show: 09/20/19
-
----------- CONCERT ----------
-Concert: blink-182 & Lil Wayne Tour 2019
-City: Columbus
-State: OH
+Artist: Weezer
+Concert: Jockey Club
+City: Lima
+State: 
 Date of the show: 09/22/19
 
+
 ---------- CONCERT ----------
-Concert: Aftershock 2019
-City: Sacramento
-State: CA
+Artist: Weezer
+Concert: Movistar Arena
+City: Santiago
+State: 
+Date of the show: 09/24/19
+
+
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Toyosu PIT
+City: Kōtō-ku
+State: Tōkyō-to
+Date of the show: 08/14/19
+
+
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Ginásio do Ibirapuera
+City: Sao Paulo
+State: 
+Date of the show: 09/26/19
+
+
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Estadio El Campín
+City: Bogota
+State: 
+Date of the show: 10/01/19
+
+
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Estadio Nacional de Costa Rica
+City: San Jose
+State: 
+Date of the show: 10/04/19
+
+
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Corona Capital
+City: Granjas México
+State: 
+Date of the show: 11/16/19
+
+
+---------- CONCERT ----------
+Artist: Weezer
+Concert: Rock in Rio
+City: Rio De Janeiro
+State: 
+Date of the show: 09/28/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Herdade da Casa Branca
+City: Monte De Vale Do Bispo De Cima
+State: 
+Date of the show: 08/06/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Pacha la Pineda
+City: Mollet De Peralada
+State: 
+Date of the show: 08/12/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Altromondo Studios
+City: Rimini
+State: 
+Date of the show: 08/13/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: MEO Sudoeste
+City: Odemira
+State: 
+Date of the show: 08/07/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Pop Fest
+City: Gallipoli
+State: 
+Date of the show: 08/14/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Dreambeach Villaricos
+City: Almería
+State: 
+Date of the show: 08/09/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Street Food Festival
+City: Caorle
+State: 
+Date of the show: 08/15/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Red Valley Festival
+City: Arbatax
+State: 
+Date of the show: 08/16/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Monte Verde Festival
+City: Ribeira Grande
+State: 
+Date of the show: 08/08/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Noa Beach Club
+City: Novalja
+State: 
+Date of the show: 08/15/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Amnesia Ibiza
+City: Ibiza
+State: 
+Date of the show: 08/20/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Highfield Festival
+City: Großpösna
+State: 
+Date of the show: 08/18/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Findings Festival
+City: Oslo
+State: 
+Date of the show: 08/17/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: The pavilion at pan am
+City: Indianapolis
+State: IN
+Date of the show: 08/31/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 08/30/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Strand Festival
+City: Zamárdi
+State: 
+Date of the show: 08/24/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: JEWEL Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 09/02/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: SunTrust Park
+City: Atlanta
+State: GA
+Date of the show: 09/01/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: JEWEL Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 09/03/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Wet Republic Ultra Pool
+City: Las Vegas
+State: NV
+Date of the show: 09/07/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Riverside Festival
+City: Sainte-therese-de-la-gatineau
+State: 
+Date of the show: 09/08/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: T-Mobile Arena
+City: Las Vegas
+State: NV
+Date of the show: 09/20/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 09/21/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Wet Republic Ultra Pool
+City: Las Vegas
+State: NV
+Date of the show: 09/22/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 09/28/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Wet Republic Ultra Pool
+City: Las Vegas
+State: NV
+Date of the show: 09/29/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Town's theater
+City: Ciudad De Mexico
+State: 
+Date of the show: 09/06/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Flannagan's
+City: Columbus
+State: OH
+Date of the show: 08/31/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Ziggo Dome
+City: Amsterdam
+State: 
+Date of the show: 10/18/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Houston Raceway
+City: Baytown
+State: TX
+Date of the show: 10/27/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Omnia Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 10/31/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 11/01/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Omnia Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 11/05/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 12/31/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
+Date of the show: 10/05/19
+
+
+---------- CONCERT ----------
+Artist: Steve Aoki
+Concert: Hakkasan Las Vegas Nightclub
+City: Las Vegas
+State: NV
 Date of the show: 10/12/19
 
----------- MOVIE ----------
-Title: Fast Five
-Year: 2011
-IMDB Rating: 7.3
-Rotten Tomatoes Rating: 77%
-Country: USA, Brazil, Japan
-Language: English, Portuguese, Spanish, Italian, French
-Plot: Dominic Toretto and his crew of street racers plan a massive heist to buy their freedom while in the sights of a powerful Brazilian drug lord and a dangerous federal agent.
-Actors: Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson
+
+---------- SONG ----------
+Artist(s): Billy Joel
+Song Name: Piano Man
+Album: The Essential Billy Joel
+Preview: https://p.scdn.co/mp3-preview/54682172a43fb85c11b29f807f9ced0dcd3b9dc0?cid=fd679cc8f3ed4dbf8dc3ca7bee644661
+
+---------- SONG ----------
+Artist(s): Ace of Base
+Song Name: The Sign
+Album: The Sign (US Album) [Remastered]
+Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fd679cc8f3ed4dbf8dc3ca7bee644661
 
 ---------- MOVIE ----------
-Title: Three Billboards Outside Ebbing, Missouri
+Title: I, Tonya
 Year: 2017
-IMDB Rating: 8.2
-Rotten Tomatoes Rating: 90%
-Country: UK, USA
+IMDB Rating: 7.5
+Rotten Tomatoes Rating: 89%
+Country: UK, USA, Qatar
 Language: English
-Plot: A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
-Actors: Frances McDormand, Caleb Landry Jones, Kerry Condon, Sam Rockwell
-
----------- MOVIE ----------
-Title: A Quiet Place
-Year: 2018
-IMDB Rating: 7.6
-Rotten Tomatoes Rating: 95%
-Country: USA
-Language: English, American Sign Language
-Plot: In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.
-Actors: Emily Blunt, John Krasinski, Millicent Simmonds, Noah Jupe
+Plot: Competitive ice skater Tonya Harding rises amongst the ranks at the U.S. Figure Skating Championships, but her future in the activity is thrown into doubt when her ex-husband intervenes.
+Actors: Margot Robbie, Sebastian Stan, Allison Janney, Julianne Nicholson
 
 ---------- MOVIE ----------
 Title: Mr. Nobody
@@ -176,735 +430,13 @@ Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
 
----------- SONG ----------
-Artist(s): Ace of Base
-Song Name: The Sign
-Album: The Sign (US Album) [Remastered]
-Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=fd679cc8f3ed4dbf8dc3ca7bee644661
-
----------- CONCERT ----------
-Concert: EDC Korea
-City: Gwacheon-si
-State: 
-Date of the show: 08/31/19
-
----------- CONCERT ----------
-Concert: Parc Jean-Drapeau
-City: Montréal
-State: 
-Date of the show: 08/10/19
-
----------- CONCERT ----------
-Concert: XS Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 08/18/19
-
----------- CONCERT ----------
-Concert: Encore Beach Club
-City: Las Vegas
-State: NV
-Date of the show: 08/24/19
-
----------- CONCERT ----------
-Concert: Encore Beach Club
-City: Las Vegas
-State: NV
-Date of the show: 09/11/19
-
----------- CONCERT ----------
-Concert: Brooklyn Mirage
-City: Brooklyn
-State: NY
-Date of the show: 09/14/19
-
----------- CONCERT ----------
-Concert: Brooklyn Mirage
-City: Brooklyn
-State: NY
-Date of the show: 09/13/19
-
----------- CONCERT ----------
-Concert: XS Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 09/07/19
-
----------- CONCERT ----------
-Concert: Encore Beach Club
-City: Las Vegas
-State: NV
-Date of the show: 09/28/19
-
----------- CONCERT ----------
-Concert: XS Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 09/21/19
-
----------- CONCERT ----------
-Concert: Encore Beach Club
-City: Las Vegas
-State: NV
-Date of the show: 09/20/19
-
----------- CONCERT ----------
-Concert: XS Las Vegas
-City: Las Vegas
-State: NV
-Date of the show: 08/10/19
-
----------- CONCERT ----------
-Concert: Rock in Rio
-City: Rio De Janeiro
-State: 
-Date of the show: 10/05/19
-
----------- CONCERT ----------
-Concert: Encore Beach Club
-City: Las Vegas
-State: NV
-Date of the show: 08/16/19
-
----------- CONCERT ----------
-Concert: AMF Festival
-City: Nieuw-amsterdam
-State: 
-Date of the show: 10/19/19
-
----------- CONCERT ----------
-Concert: Herdade da Casa Branca
-City: Monte De Vale Do Bispo De Cima
-State: 
-Date of the show: 08/06/19
-
----------- CONCERT ----------
-Concert: Monte Verde Festival
-City: Ribeira Grande
-State: 
-Date of the show: 08/08/19
-
----------- CONCERT ----------
-Concert: Altromondo Studios
-City: Rimini
-State: 
-Date of the show: 08/13/19
-
----------- CONCERT ----------
-Concert: MEO Sudoeste
-City: Odemira
-State: 
-Date of the show: 08/07/19
-
----------- CONCERT ----------
-Concert: Dreambeach Villaricos
-City: Almería
-State: 
-Date of the show: 08/09/19
-
----------- CONCERT ----------
-Concert: Pacha la Pineda
-City: Mollet De Peralada
-State: 
-Date of the show: 08/12/19
-
----------- CONCERT ----------
-Concert: Pop Fest
-City: Gallipoli
-State: 
-Date of the show: 08/14/19
-
----------- CONCERT ----------
-Concert: Highfield Festival
-City: Großpösna
-State: 
-Date of the show: 08/18/19
-
----------- CONCERT ----------
-Concert: Findings Festival
-City: Oslo
-State: 
-Date of the show: 08/17/19
-
----------- CONCERT ----------
-Concert: Amnesia Ibiza
-City: Ibiza
-State: 
-Date of the show: 08/20/19
-
----------- CONCERT ----------
-Concert: Strand Festival
-City: Zamárdi
-State: 
-Date of the show: 08/24/19
-
----------- CONCERT ----------
-Concert: Noa Beach Club
-City: Novalja
-State: 
-Date of the show: 08/15/19
-
----------- CONCERT ----------
-Concert: Street Food Festival
-City: Caorle
-State: 
-Date of the show: 08/15/19
-
----------- CONCERT ----------
-Concert: SunTrust Park
-City: Atlanta
-State: GA
-Date of the show: 09/01/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 08/30/19
-
----------- CONCERT ----------
-Concert: Red Valley Festival
-City: Arbatax
-State: 
-Date of the show: 08/16/19
-
----------- CONCERT ----------
-Concert: Flannagan's
-City: Columbus
-State: OH
-Date of the show: 08/31/19
-
----------- CONCERT ----------
-Concert: The pavilion at pan am
-City: Indianapolis
-State: IN
-Date of the show: 08/31/19
-
----------- CONCERT ----------
-Concert: Wet Republic Ultra Pool
-City: Las Vegas
-State: NV
-Date of the show: 09/07/19
-
----------- CONCERT ----------
-Concert: Town's theater
-City: Ciudad De Mexico
-State: 
-Date of the show: 09/06/19
-
----------- CONCERT ----------
-Concert: JEWEL Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 09/02/19
-
----------- CONCERT ----------
-Concert: T-Mobile Arena
-City: Las Vegas
-State: NV
-Date of the show: 09/20/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 09/21/19
-
----------- CONCERT ----------
-Concert: Riverside Festival
-City: Sainte-therese-de-la-gatineau
-State: 
-Date of the show: 09/08/19
-
----------- CONCERT ----------
-Concert: JEWEL Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 09/03/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 10/05/19
-
----------- CONCERT ----------
-Concert: Wet Republic Ultra Pool
-City: Las Vegas
-State: NV
-Date of the show: 09/29/19
-
----------- CONCERT ----------
-Concert: Wet Republic Ultra Pool
-City: Las Vegas
-State: NV
-Date of the show: 09/22/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 10/12/19
-
----------- CONCERT ----------
-Concert: Houston Raceway
-City: Baytown
-State: TX
-Date of the show: 10/27/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 11/01/19
-
----------- CONCERT ----------
-Concert: Omnia Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 11/05/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 12/31/19
-
----------- CONCERT ----------
-Concert: Ziggo Dome
-City: Amsterdam
-State: 
-Date of the show: 10/18/19
-
----------- CONCERT ----------
-Concert: Omnia Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 10/31/19
-
----------- CONCERT ----------
-Concert: Hakkasan Las Vegas Nightclub
-City: Las Vegas
-State: NV
-Date of the show: 09/28/19
-
----------- CONCERT ----------
-Concert: Musikfest
-City: Bethlehem
-State: PA
-Date of the show: 08/05/19
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Chiba-shi
-State: Chiba-ken
-Date of the show: 08/16/19
-
----------- CONCERT ----------
-Concert: Incheon Pentaport Rock Festival 
-City: Incheon
-State: 
-Date of the show: 08/11/19
-
----------- CONCERT ----------
-Concert: Toyosu PIT
-City: Kōtō-ku
-State: Tōkyō-to
-Date of the show: 08/14/19
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Osaka-shi
-State: Ōsaka-fu
-Date of the show: 08/18/19
-
----------- CONCERT ----------
-Concert: Jockey Club
-City: Lima
-State: 
-Date of the show: 09/22/19
-
----------- CONCERT ----------
-Concert: Washington State Fair Events Center
-City: Puyallup
-State: WA
-Date of the show: 09/01/19
-
----------- CONCERT ----------
-Concert: Jazz Aspen Snowmass
-City: Snowmass
-State: CO
-Date of the show: 08/30/19
-
----------- CONCERT ----------
-Concert: Ginásio do Ibirapuera
-City: Sao Paulo
-State: 
-Date of the show: 09/26/19
-
----------- CONCERT ----------
-Concert: Estadio El Campín
-City: Bogota
-State: 
-Date of the show: 10/01/19
-
----------- CONCERT ----------
-Concert: Rock in Rio
-City: Rio De Janeiro
-State: 
-Date of the show: 09/28/19
-
----------- CONCERT ----------
-Concert: Estadio Nacional de Costa Rica
-City: San Jose
-State: 
-Date of the show: 10/04/19
-
----------- CONCERT ----------
-Concert: Corona Capital
-City: Granjas México
-State: 
-Date of the show: 11/16/19
-
----------- CONCERT ----------
-Concert: Movistar Arena
-City: Santiago
-State: 
-Date of the show: 09/24/19
-
----------- CONCERT ----------
-Concert: Musikfest
-City: Bethlehem
-State: PA
-Date of the show: 08/05/19
-
-
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Chiba-shi
-State: Chiba-ken
-Date of the show: 08/16/19
-
-
-
----------- CONCERT ----------
-Concert: Toyosu PIT
-City: Kōtō-ku
-State: Tōkyō-to
-Date of the show: 08/14/19
-
-
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Osaka-shi
-State: Ōsaka-fu
-Date of the show: 08/18/19
-
-
-
----------- CONCERT ----------
-Concert: Incheon Pentaport Rock Festival 
-City: Incheon
-State: 
-Date of the show: 08/11/19
-
-
-
----------- CONCERT ----------
-Concert: Ginásio do Ibirapuera
-City: Sao Paulo
-State: 
-Date of the show: 09/26/19
-
-
-
----------- CONCERT ----------
-Concert: Jockey Club
-City: Lima
-State: 
-Date of the show: 09/22/19
-
-
-
----------- CONCERT ----------
-Concert: Estadio El Campín
-City: Bogota
-State: 
-Date of the show: 10/01/19
-
-
-
----------- CONCERT ----------
-Concert: Movistar Arena
-City: Santiago
-State: 
-Date of the show: 09/24/19
-
-
-
----------- CONCERT ----------
-Concert: Jazz Aspen Snowmass
-City: Snowmass
-State: CO
-Date of the show: 08/30/19
-
-
-
----------- CONCERT ----------
-Concert: Washington State Fair Events Center
-City: Puyallup
-State: WA
-Date of the show: 09/01/19
-
-
-
----------- CONCERT ----------
-Concert: Estadio Nacional de Costa Rica
-City: San Jose
-State: 
-Date of the show: 10/04/19
-
-
-
----------- CONCERT ----------
-Concert: Rock in Rio
-City: Rio De Janeiro
-State: 
-Date of the show: 09/28/19
-
-
-
----------- CONCERT ----------
-Concert: Corona Capital
-City: Granjas México
-State: 
-Date of the show: 11/16/19
-
-
-
----------- CONCERT ----------
-Concert: Musikfest
-City: Bethlehem
-State: PA
-Date of the show: 08/05/19
-
-
-
----------- CONCERT ----------
-Concert: Toyosu PIT
-City: Kōtō-ku
-State: Tōkyō-to
-Date of the show: 08/14/19
-
-
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Chiba-shi
-State: Chiba-ken
-Date of the show: 08/16/19
-
-
-
----------- CONCERT ----------
-Concert: Washington State Fair Events Center
-City: Puyallup
-State: WA
-Date of the show: 09/01/19
-
-
-
----------- CONCERT ----------
-Concert: Jockey Club
-City: Lima
-State: 
-Date of the show: 09/22/19
-
-
-
----------- CONCERT ----------
-Concert: Jazz Aspen Snowmass
-City: Snowmass
-State: CO
-Date of the show: 08/30/19
-
-
-
----------- CONCERT ----------
-Concert: Movistar Arena
-City: Santiago
-State: 
-Date of the show: 09/24/19
-
-
-
----------- CONCERT ----------
-Concert: Ginásio do Ibirapuera
-City: Sao Paulo
-State: 
-Date of the show: 09/26/19
-
-
-
----------- CONCERT ----------
-Concert: Rock in Rio
-City: Rio De Janeiro
-State: 
-Date of the show: 09/28/19
-
-
-
----------- CONCERT ----------
-Concert: Corona Capital
-City: Granjas México
-State: 
-Date of the show: 11/16/19
-
-
-
----------- CONCERT ----------
-Concert: Estadio El Campín
-City: Bogota
-State: 
-Date of the show: 10/01/19
-
-
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Osaka-shi
-State: Ōsaka-fu
-Date of the show: 08/18/19
-
-
-
----------- CONCERT ----------
-Concert: Incheon Pentaport Rock Festival 
-City: Incheon
-State: 
-Date of the show: 08/11/19
-
-
-
----------- CONCERT ----------
-Concert: Estadio Nacional de Costa Rica
-City: San Jose
-State: 
-Date of the show: 10/04/19
-
-
-
----------- CONCERT ----------
-Concert: Musikfest
-City: Bethlehem
-State: PA
-Date of the show: 08/05/19
-
-
-
----------- CONCERT ----------
-Concert: Toyosu PIT
-City: Kōtō-ku
-State: Tōkyō-to
-Date of the show: 08/14/19
-
-
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Osaka-shi
-State: Ōsaka-fu
-Date of the show: 08/18/19
-
-
-
----------- CONCERT ----------
-Concert: Washington State Fair Events Center
-City: Puyallup
-State: WA
-Date of the show: 09/01/19
-
-
-
----------- CONCERT ----------
-Concert: Ginásio do Ibirapuera
-City: Sao Paulo
-State: 
-Date of the show: 09/26/19
-
-
-
----------- CONCERT ----------
-Concert: Movistar Arena
-City: Santiago
-State: 
-Date of the show: 09/24/19
-
-
-
----------- CONCERT ----------
-Concert: Rock in Rio
-City: Rio De Janeiro
-State: 
-Date of the show: 09/28/19
-
-
-
----------- CONCERT ----------
-Concert: Summer Sonic
-City: Chiba-shi
-State: Chiba-ken
-Date of the show: 08/16/19
-
-
-
----------- CONCERT ----------
-Concert: Incheon Pentaport Rock Festival 
-City: Incheon
-State: 
-Date of the show: 08/11/19
-
-
-
----------- CONCERT ----------
-Concert: Jazz Aspen Snowmass
-City: Snowmass
-State: CO
-Date of the show: 08/30/19
-
-
-
----------- CONCERT ----------
-Concert: Estadio El Campín
-City: Bogota
-State: 
-Date of the show: 10/01/19
-
-
-
----------- CONCERT ----------
-Concert: Estadio Nacional de Costa Rica
-City: San Jose
-State: 
-Date of the show: 10/04/19
-
-
-
----------- CONCERT ----------
-Concert: Jockey Club
-City: Lima
-State: 
-Date of the show: 09/22/19
-
-
-
----------- CONCERT ----------
-Concert: Corona Capital
-City: Granjas México
-State: 
-Date of the show: 11/16/19
-
-
+---------- MOVIE ----------
+Title: Three Billboards Outside Ebbing, Missouri
+Year: 2017
+IMDB Rating: 8.2
+Rotten Tomatoes Rating: 90%
+Country: UK, USA
+Language: English
+Plot: A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.
+Actors: Frances McDormand, Caleb Landry Jones, Kerry Condon, Sam Rockwell
 
